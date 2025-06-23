@@ -58,11 +58,6 @@ The dataset used is the **Titanic Dataset**, and the goal is to prepare it for m
 
 ---
 
-## 🧠 Interview Questions Reference
-A separate file `interview_questions.md` (optional) contains answers to common ML preprocessing interview questions.
-
----
-
 ## 📌 Author
 - **Subathra Mahalakshmi**  
 - Internship Task Submission | AIML
